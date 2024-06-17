@@ -1,2 +1,2 @@
 # springboot80q0m1
-基于springboot的而受教育i管理系统，有问题联系v：19306446185
+基于springboot的二手交易管理系统，有问题联系v：19306446185
